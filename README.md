@@ -2,6 +2,7 @@
 
 Hao Wei, Chenyang Ge, Xin Qiao, Pengchao Deng.
 
+paper link: [link](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/ipr2.13029)
 
 ### Updates
 - **2024-01-02**: The paper is accepted by IET Image Processing.

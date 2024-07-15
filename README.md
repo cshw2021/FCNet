@@ -8,7 +8,7 @@ paper link: [link](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/
 - **2024-01-02**: The paper is accepted by IET Image Processing.
 
 ### TODO
-[] Code coming soon.
+Code coming soon.
 
 ### Contact
 If you have any questions, please feel free to reach me out at haowei@stu.xjtu.edu.cn.
